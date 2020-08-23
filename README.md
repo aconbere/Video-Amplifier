@@ -2,11 +2,16 @@
 
 A simple video amplifier designed for use in a SuperGun. The board is a light wrapper around the TI [THS7374](https://www.ti.com/product/THS7374) Video Amplifier. It takes in an RBSs signal from a JAMMA board (0–3V AC swing, 0–5V DC bias, high input impedance: 1–10kΩ) and converts it to consumer set friendly outputs (RGB inputs: 0.7V AC, 0–2V DC bias, at 75 ohms impedance).
 
+![Image of pcb design for Video Amplifier v0.1 board](https://raw.githubusercontent.com/aconbere/Video-Amplifier/master/Video-amplifier-v0.1.png)
+
 This is part of a broader [collection of projects](https://github.com/aconbere/Supergun) to piece by piece build up the components of a supergun.
 
 # Current State
 
 This board has been fabbed via Oshpark, fully assembled, and tested as working.
+
+![Image of assembled Video Amplifier v0.1 board](https://raw.githubusercontent.com/aconbere/Video-Amplifier/master/Video-Amplifier-v0.1-Assembled.JPG)
+![Image of video output of Video Amplifier v0.1 board](https://raw.githubusercontent.com/aconbere/Video-Amplifier/master/Video-Amplifier-v0.1-example-function.JPG)
 
 In future revisions I would like to decouple the power ground from the video ground to increase the potential applications of the board. This seems like a completely reasonable design in the scope of a board focused on JAMMA compatibility where almost always video ground and power ground are coupled. But I realized this flaw when I wanted to power my board via an external source and realized the design wouldn't work.
 
