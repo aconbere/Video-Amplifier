@@ -1,0 +1,11 @@
+| Part | Spacing | Data Sheet | Mouser | Count | Reference # |
+| ---- | ------- | ---------- | ------ | ----- | ----------- |
+| C0.1 | 2.5mm | [Data Sheet](https://www.mouser.com/datasheet/2/427/kseries-1763315.pdf) | [Mouser](https://www.mouser.com/ProductDetail/Vishay-BC-Components/K104M15X7RF53L2?qs=sGAEpiMZZMsh%252B1woXyUXj2j%2FOJvoqXgXOm5N%2FZm3fN4%3D) | 4 | C1-4 |
+| C330 | 2.5mm | [Data Sheet](https://www.mouser.com/datasheet/2/293/e-vr-6088.pdf) | [Mouser](https://www.mouser.com/ProductDetail/Nichicon/UVR0J331MED?qs=sGAEpiMZZMsh%252B1woXyUXjzDSgkp6P%2F%252BZoLnpzBSMaUQ%3D) | 4 | C5-8 |
+| R1k | 3.4mm | [Data Sheet](https://www.mouser.com/datasheet/2/219/MF-MFS-RK-18760.pdf) | [Mouser](https://www.mouser.com/ProductDetail/KOA-Speer/MFS1-4CCT52R1001F?qs=67CtzMuHUrtypecOPXYk%252BA%3D%3D) | 4 | R1-4 |
+| R390 | 3.4mm | [Data Sheet](https://www.mouser.com/datasheet/2/219/MF-MFS-RK-18760.pdf) | [Mouser](https://www.mouser.com/ProductDetail/KOA-Speer/MFS1-4DCT52R3900F?qs=sGAEpiMZZMsPqMdJzcrNwk4M%252BI85OEMFad%252Brno5%2FUrA%3D) | 4 | R5-8 |
+| R75 | 3.4mm | [Data Sheet](https://www.mouser.com/datasheet/2/219/MF-MFS-RK-18760.pdf) | [Mouser](https://www.mouser.com/ProductDetail/KOA-Speer/MFS1-4DCT52R75R0F?qs=sGAEpiMZZMtlubZbdhIBIMGWx9NGMVc0OmwVyUDpkqA%3D) |4| R9-12 |
+| THS7374 | | [Data Sheet](https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fths7374) | [Mouser](https://www.mouser.com/ProductDetail/Texas-Instruments/THS7374IPW?qs=sGAEpiMZZMuDyxyMP5MlsOi5Zw9NnNAW) | 1 | IC1 |
+| 4P Block Terminal | | [Data Sheet](https://www.mouser.com/datasheet/2/670/tb001-500-1550615.pdf) | [Mouser](https://www.mouser.com/ProductDetail/CUI-Devices/TB001-500-04BE?qs=%2Fha2pyFadujMdv6PiXeNZh%252B4MEgUxY1Xm%2FnE4hMP3LsnqETq6OQuAw%3D%3D) | 1 | J1 |
+| 2P JST Header | | [Data Sheet](http://www.jst-mfg.com/product/pdf/eng/ePH.pdf) | [Mouser](https://www.digikey.com/products/en?mpart=B2B-PH-K-S%28LF%29%28SN%29&v=455) | 1 | J2 |
+| 5P Block Terminal | | [Data Sheet](https://www.mouser.com/datasheet/2/670/tb003-500-1550597.pdf) | [Mouser](https://www.mouser.com/ProductDetail/CUI-Devices/TB003-500-P05BE?qs=vLWxofP3U2xXm4XKOMROaw%3D%3D) | 1 | J3 |
